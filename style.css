@@ -1,0 +1,45 @@
+body {
+  background-color: #16a085;
+}
+.card {
+  width: 550px;
+  margin: 8% auto auto auto;
+  background-color: #FFF;
+  border-radius: 3px;
+  padding:40px 50px;
+  border-style: none;
+}
+.footer {
+  text-align: center;
+  color: #fff;
+}
+.me {
+  color: #FFF;
+}
+.fa-quote-left {
+  color: #16a085;
+}
+.text-author {
+  text-align: right;
+  color: #16a085;
+}
+.button{
+  margin-top:30px;
+}
+.btn {
+  color: #FFF;
+  font-size: 25px;
+  background-color: #16a085;
+}
+#text {
+  text-align:center;
+  color: #000;
+  font-size: 30px;
+}
+#txt{
+  color: #16a085;
+}
+#r-btn {
+  float: right;
+}
+
